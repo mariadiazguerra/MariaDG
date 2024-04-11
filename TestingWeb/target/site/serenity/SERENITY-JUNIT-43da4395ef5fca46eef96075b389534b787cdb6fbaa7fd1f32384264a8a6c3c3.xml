@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="Implementación de botón de Iniciar Sesión con Google" skipped="0" tests="2" time="25.35" timestamp="2024-04-10 01:09:47"><testcase name="Login exitoso desde boton Google"/><testcase name="Validar que cargue correctamente la pagina de inicio"/></testsuite>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="1" name="Como usuario" skipped="0" tests="2" time="25.61" timestamp="2023-11-18 02:01:33"><testcase name=": Abrir HBO MAX"><failure message="Fallido. La URL actual es: https://play.hbomax.com/signIn" type="java.lang.AssertionError">Fallido. La URL actual es: https://play.hbomax.com/signIn</failure><system-err>Fallido. La URL actual es: https://play.hbomax.com/signIn&#13;
+com.bdd.web.steps.StreamingSteps.validoQueLosUsuariosSonCorrectos(StreamingSteps.java:50)&#13;
+com.bdd.web.stepdefinitions.StreamingStepdefs.validoQueLosUsuariosSonCorrectos(StreamingStepdefs.java:34)&#13;
+✽.valido que los usuarios son correctos(file:///C:/ZFabio/Testing%20Automatizadas/Testing%20Web/TestingWeb/src/test/resources/features/Streaming.feature:12)&#13;
+</system-err></testcase></testsuite>
